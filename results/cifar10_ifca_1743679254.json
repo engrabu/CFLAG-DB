@@ -1,0 +1,479 @@
+{
+  "final_accuracy": 0.4473,
+  "accuracy_history": [
+    0.1052,
+    0.2125,
+    0.2367,
+    0.2457,
+    0.2511,
+    0.2606,
+    0.2667,
+    0.2761,
+    0.2893,
+    0.288,
+    0.3024,
+    0.3162,
+    0.3206,
+    0.3257,
+    0.3437,
+    0.3491,
+    0.367,
+    0.3606,
+    0.366,
+    0.366,
+    0.3747,
+    0.3763,
+    0.378,
+    0.3833,
+    0.3862,
+    0.3906,
+    0.3962,
+    0.394,
+    0.4032,
+    0.4028,
+    0.4045,
+    0.4047,
+    0.4091,
+    0.4086,
+    0.4116,
+    0.4133,
+    0.4183,
+    0.4243,
+    0.4241,
+    0.4248,
+    0.4241,
+    0.4306,
+    0.437,
+    0.4382,
+    0.4384,
+    0.4379,
+    0.44,
+    0.4403,
+    0.4451,
+    0.4473
+  ],
+  "training_time": 4052.109837293625,
+  "communication_cost": 55078368000,
+  "total_time": 4387.0429656505585,
+  "round_stats": [
+    {
+      "accuracy": 0.1052,
+      "training_time": 76.56738805770874,
+      "communication_cost": 1101567360,
+      "num_clients": 240,
+      "round": 1,
+      "round_time": 81.6988365650177
+    },
+    {
+      "accuracy": 0.2125,
+      "training_time": 72.75492739677429,
+      "communication_cost": 1101567360,
+      "num_clients": 240,
+      "round": 2,
+      "round_time": 77.60472083091736
+    },
+    {
+      "accuracy": 0.2367,
+      "training_time": 70.61549687385559,
+      "communication_cost": 1101567360,
+      "num_clients": 240,
+      "round": 3,
+      "round_time": 75.52779841423035
+    },
+    {
+      "accuracy": 0.2457,
+      "training_time": 77.60663485527039,
+      "communication_cost": 1101567360,
+      "num_clients": 240,
+      "round": 4,
+      "round_time": 82.58324408531189
+    },
+    {
+      "accuracy": 0.2511,
+      "training_time": 78.29229736328125,
+      "communication_cost": 1101567360,
+      "num_clients": 240,
+      "round": 5,
+      "round_time": 83.85152864456177
+    },
+    {
+      "accuracy": 0.2606,
+      "training_time": 87.42939066886902,
+      "communication_cost": 1101567360,
+      "num_clients": 240,
+      "round": 6,
+      "round_time": 93.14946293830872
+    },
+    {
+      "accuracy": 0.2667,
+      "training_time": 99.50788140296936,
+      "communication_cost": 1101567360,
+      "num_clients": 240,
+      "round": 7,
+      "round_time": 105.62484002113342
+    },
+    {
+      "accuracy": 0.2761,
+      "training_time": 84.26162552833557,
+      "communication_cost": 1101567360,
+      "num_clients": 240,
+      "round": 8,
+      "round_time": 91.96155762672424
+    },
+    {
+      "accuracy": 0.2893,
+      "training_time": 84.00294041633606,
+      "communication_cost": 1101567360,
+      "num_clients": 240,
+      "round": 9,
+      "round_time": 90.10660290718079
+    },
+    {
+      "accuracy": 0.288,
+      "training_time": 79.65184473991394,
+      "communication_cost": 1101567360,
+      "num_clients": 240,
+      "round": 10,
+      "round_time": 87.06872272491455
+    },
+    {
+      "accuracy": 0.3024,
+      "training_time": 83.21909952163696,
+      "communication_cost": 1101567360,
+      "num_clients": 240,
+      "round": 11,
+      "round_time": 90.66350269317627
+    },
+    {
+      "accuracy": 0.3162,
+      "training_time": 77.11201119422913,
+      "communication_cost": 1101567360,
+      "num_clients": 240,
+      "round": 12,
+      "round_time": 83.57664704322815
+    },
+    {
+      "accuracy": 0.3206,
+      "training_time": 83.59039235115051,
+      "communication_cost": 1101567360,
+      "num_clients": 240,
+      "round": 13,
+      "round_time": 90.71688985824585
+    },
+    {
+      "accuracy": 0.3257,
+      "training_time": 73.96410036087036,
+      "communication_cost": 1101567360,
+      "num_clients": 240,
+      "round": 14,
+      "round_time": 80.12039852142334
+    },
+    {
+      "accuracy": 0.3437,
+      "training_time": 70.9772789478302,
+      "communication_cost": 1101567360,
+      "num_clients": 240,
+      "round": 15,
+      "round_time": 77.59646320343018
+    },
+    {
+      "accuracy": 0.3491,
+      "training_time": 88.38840842247009,
+      "communication_cost": 1101567360,
+      "num_clients": 240,
+      "round": 16,
+      "round_time": 94.78214907646179
+    },
+    {
+      "accuracy": 0.367,
+      "training_time": 86.92752027511597,
+      "communication_cost": 1101567360,
+      "num_clients": 240,
+      "round": 17,
+      "round_time": 94.19671368598938
+    },
+    {
+      "accuracy": 0.3606,
+      "training_time": 79.32581782341003,
+      "communication_cost": 1101567360,
+      "num_clients": 240,
+      "round": 18,
+      "round_time": 86.20975351333618
+    },
+    {
+      "accuracy": 0.366,
+      "training_time": 82.84268569946289,
+      "communication_cost": 1101567360,
+      "num_clients": 240,
+      "round": 19,
+      "round_time": 92.98096418380737
+    },
+    {
+      "accuracy": 0.366,
+      "training_time": 74.21351981163025,
+      "communication_cost": 1101567360,
+      "num_clients": 240,
+      "round": 20,
+      "round_time": 80.81974697113037
+    },
+    {
+      "accuracy": 0.3747,
+      "training_time": 79.28211116790771,
+      "communication_cost": 1101567360,
+      "num_clients": 240,
+      "round": 21,
+      "round_time": 85.95301961898804
+    },
+    {
+      "accuracy": 0.3763,
+      "training_time": 82.49215650558472,
+      "communication_cost": 1101567360,
+      "num_clients": 240,
+      "round": 22,
+      "round_time": 90.24533939361572
+    },
+    {
+      "accuracy": 0.378,
+      "training_time": 81.68847107887268,
+      "communication_cost": 1101567360,
+      "num_clients": 240,
+      "round": 23,
+      "round_time": 88.63560748100281
+    },
+    {
+      "accuracy": 0.3833,
+      "training_time": 80.75394582748413,
+      "communication_cost": 1101567360,
+      "num_clients": 240,
+      "round": 24,
+      "round_time": 86.91949129104614
+    },
+    {
+      "accuracy": 0.3862,
+      "training_time": 74.53068590164185,
+      "communication_cost": 1101567360,
+      "num_clients": 240,
+      "round": 25,
+      "round_time": 80.81162667274475
+    },
+    {
+      "accuracy": 0.3906,
+      "training_time": 79.61731505393982,
+      "communication_cost": 1101567360,
+      "num_clients": 240,
+      "round": 26,
+      "round_time": 86.3734450340271
+    },
+    {
+      "accuracy": 0.3962,
+      "training_time": 76.27987265586853,
+      "communication_cost": 1101567360,
+      "num_clients": 240,
+      "round": 27,
+      "round_time": 82.72566604614258
+    },
+    {
+      "accuracy": 0.394,
+      "training_time": 76.50862121582031,
+      "communication_cost": 1101567360,
+      "num_clients": 240,
+      "round": 28,
+      "round_time": 82.38895559310913
+    },
+    {
+      "accuracy": 0.4032,
+      "training_time": 81.59517812728882,
+      "communication_cost": 1101567360,
+      "num_clients": 240,
+      "round": 29,
+      "round_time": 89.0065758228302
+    },
+    {
+      "accuracy": 0.4028,
+      "training_time": 82.10595965385437,
+      "communication_cost": 1101567360,
+      "num_clients": 240,
+      "round": 30,
+      "round_time": 89.57314825057983
+    },
+    {
+      "accuracy": 0.4045,
+      "training_time": 81.58701062202454,
+      "communication_cost": 1101567360,
+      "num_clients": 240,
+      "round": 31,
+      "round_time": 87.86187362670898
+    },
+    {
+      "accuracy": 0.4047,
+      "training_time": 80.57242250442505,
+      "communication_cost": 1101567360,
+      "num_clients": 240,
+      "round": 32,
+      "round_time": 87.34844541549683
+    },
+    {
+      "accuracy": 0.4091,
+      "training_time": 77.72406148910522,
+      "communication_cost": 1101567360,
+      "num_clients": 240,
+      "round": 33,
+      "round_time": 84.93221426010132
+    },
+    {
+      "accuracy": 0.4086,
+      "training_time": 85.04535555839539,
+      "communication_cost": 1101567360,
+      "num_clients": 240,
+      "round": 34,
+      "round_time": 91.50642132759094
+    },
+    {
+      "accuracy": 0.4116,
+      "training_time": 86.21370077133179,
+      "communication_cost": 1101567360,
+      "num_clients": 240,
+      "round": 35,
+      "round_time": 92.5404634475708
+    },
+    {
+      "accuracy": 0.4133,
+      "training_time": 84.76322221755981,
+      "communication_cost": 1101567360,
+      "num_clients": 240,
+      "round": 36,
+      "round_time": 91.09159255027771
+    },
+    {
+      "accuracy": 0.4183,
+      "training_time": 83.6161961555481,
+      "communication_cost": 1101567360,
+      "num_clients": 240,
+      "round": 37,
+      "round_time": 91.43979072570801
+    },
+    {
+      "accuracy": 0.4243,
+      "training_time": 76.01698446273804,
+      "communication_cost": 1101567360,
+      "num_clients": 240,
+      "round": 38,
+      "round_time": 85.67493152618408
+    },
+    {
+      "accuracy": 0.4241,
+      "training_time": 82.75258350372314,
+      "communication_cost": 1101567360,
+      "num_clients": 240,
+      "round": 39,
+      "round_time": 92.3885407447815
+    },
+    {
+      "accuracy": 0.4248,
+      "training_time": 84.60640454292297,
+      "communication_cost": 1101567360,
+      "num_clients": 240,
+      "round": 40,
+      "round_time": 91.1425633430481
+    },
+    {
+      "accuracy": 0.4241,
+      "training_time": 74.95895838737488,
+      "communication_cost": 1101567360,
+      "num_clients": 240,
+      "round": 41,
+      "round_time": 81.50512146949768
+    },
+    {
+      "accuracy": 0.4306,
+      "training_time": 77.73085427284241,
+      "communication_cost": 1101567360,
+      "num_clients": 240,
+      "round": 42,
+      "round_time": 84.01876544952393
+    },
+    {
+      "accuracy": 0.437,
+      "training_time": 87.26013731956482,
+      "communication_cost": 1101567360,
+      "num_clients": 240,
+      "round": 43,
+      "round_time": 93.48661661148071
+    },
+    {
+      "accuracy": 0.4382,
+      "training_time": 79.13270282745361,
+      "communication_cost": 1101567360,
+      "num_clients": 240,
+      "round": 44,
+      "round_time": 85.62849187850952
+    },
+    {
+      "accuracy": 0.4384,
+      "training_time": 79.67626595497131,
+      "communication_cost": 1101567360,
+      "num_clients": 240,
+      "round": 45,
+      "round_time": 86.29820585250854
+    },
+    {
+      "accuracy": 0.4379,
+      "training_time": 84.34061169624329,
+      "communication_cost": 1101567360,
+      "num_clients": 240,
+      "round": 46,
+      "round_time": 90.7822196483612
+    },
+    {
+      "accuracy": 0.44,
+      "training_time": 82.43581008911133,
+      "communication_cost": 1101567360,
+      "num_clients": 240,
+      "round": 47,
+      "round_time": 89.43232560157776
+    },
+    {
+      "accuracy": 0.4403,
+      "training_time": 82.17474699020386,
+      "communication_cost": 1101567360,
+      "num_clients": 240,
+      "round": 48,
+      "round_time": 88.4741575717926
+    },
+    {
+      "accuracy": 0.4451,
+      "training_time": 93.19193482398987,
+      "communication_cost": 1101567360,
+      "num_clients": 240,
+      "round": 49,
+      "round_time": 99.36963558197021
+    },
+    {
+      "accuracy": 0.4473,
+      "training_time": 82.20429420471191,
+      "communication_cost": 1101567360,
+      "num_clients": 240,
+      "round": 50,
+      "round_time": 88.5242748260498
+    }
+  ],
+  "dataset": "cifar10",
+  "method": "ifca",
+  "params": {
+    "num_clients": 1200,
+    "num_rounds": 50,
+    "local_epochs": 5,
+    "batch_size": 32,
+    "learning_rate": 0.001,
+    "client_fraction": 0.2,
+    "num_clusters": 3,
+    "dedup_threshold": 0.01,
+    "fedprox_mu": 0.01,
+    "non_iid": true,
+    "use_blockchain": true,
+    "quantization_bits": 8,
+    "dynamic_lr": false,
+    "lr_schedule": "adaptive"
+  },
+  "total_wall_time": 4387.1003386974335
+}
