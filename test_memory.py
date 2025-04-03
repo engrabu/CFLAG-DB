@@ -15,7 +15,7 @@ from model_architectures import get_model_for_dataset
 from enhanced_client import EnhancedClient
 
 # Ensure output directories exist
-os.makedirs('./data', exist_ok=True)
+os.makedirs('../data', exist_ok=True)
 os.makedirs('./results', exist_ok=True)
 os.makedirs('./client_storage', exist_ok=True)
 
@@ -46,17 +46,17 @@ transform = transforms.Compose([
 # Load dataset once
 print("Loading dataset...")
 train_dataset = FashionMNIST(
-    root='./data',
+    root='../data',
     train=True,
     download=True,
     transform=transform
 )
 
 test_dataset = FashionMNIST(
-    root='./data',
+    root='../data',
     train=False,
     download=True,
-    transform=transform
+    transform=transformgit
 )
 
 test_loader = torch.utils.data.DataLoader(

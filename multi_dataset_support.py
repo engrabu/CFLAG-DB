@@ -21,7 +21,7 @@ class DatasetManager:
     """
     Manages loading and preprocessing of multiple datasets for federated learning
     """
-    def __init__(self, data_root='./data', num_clients=10, iid=False):
+    def __init__(self, data_root='../data', num_clients=10, iid=False):
         """
         Initialize the dataset manager
         

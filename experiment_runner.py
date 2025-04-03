@@ -92,7 +92,7 @@ class ExperimentRunner:
 
         # Initialize dataset manager
         data_manager = DatasetManager(
-            data_root='./data', num_clients=num_clients, iid=not non_iid)
+            data_root='../data', num_clients=num_clients, iid=not non_iid)
 
         # Load and partition dataset
         client_datasets, test_dataset = data_manager.create_client_datasets(
