@@ -77,7 +77,7 @@ python main_experiment.py --dataset cifar10 --algorithm cflag-bd --clients 1000
     --dedup: Enable deduplication logic
     --rounds: Communication rounds (default: 50)
 
-## Run Baselines              
+## Run Baselines (FedProx, CQFL, LayerCFL, IFCA)              
 ```bash
   python experiment_runner.py --baseline fedprox
 ```
