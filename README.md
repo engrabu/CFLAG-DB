@@ -1,4 +1,4 @@
-CFLAG-BD: Blockchain-Based Clustered Federated Learning with Deduplication of Model Weights
+**CFLAG-BD: Blockchain-Based Clustered Federated Learning with Deduplication of Model Weights**
 
 This repository contains the source code, models, experiments, and documentation for the paper:
 
