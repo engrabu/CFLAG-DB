@@ -323,8 +323,8 @@ def main():
         print("\n=== Running Comparative Experiments ===\n")
         
         # For faster experiments, limit to a subset of datasets and methods
-        #datasets = ['fashion_mnist', 'cifar10']
-        datasets = ['cifar10']
+        datasets = ['fashion_mnist', 'cifar10']
+        #datasets = ['cifar10']
         methods = ['cflag-bd','fedprox', 'ifca', 'layercfl', 'cqfl']
         #methods = ['fedavg', 'cflag-bd','fedprox', 'ifca', 'layercfl']
         
