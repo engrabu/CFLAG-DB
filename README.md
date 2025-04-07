@@ -8,3 +8,4 @@ CFLAG-BD is a privacy-preserving and communication-efficient federated learning 
 - Supports deployment in heterogeneous edge environments (e.g., IoT, mobile, healthcare).
 - Achieves scalability up to 10,000 clients with minimal blockchain overhead.
 
+![image](https://github.com/user-attachments/assets/f856dc80-a4c8-46eb-982c-22bb717aa067)
