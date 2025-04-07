@@ -99,14 +99,13 @@ python memory_efficient_cflagbd.py --clients 10000
   Use the **--dataset** flag to specify which one to load.
 ## Citation
 If you use this work, please cite it as:
+### IEEE Citation:
 ```bash
-@article{cflagbd2025,
-  title={Blockchain-Based Clustered Federated Learning with Deduplication of Model Weights},
-  author={Mamman, Aliyu and others},
-  journal={Blockchain: Research and Applications},
-  year={2025},
-  note={Under Review}
-}
+Aliyu Garba, Norshakirah Aziz, Hitham Alhussian, Abdullahi Abubakar Imam, Ridwan Salahudden, Shamsudeen Adamu, and Yahaya Saidu, "Blockchain-Based Clustered Federated Learning with Deduplication of Model Weights," IEEE Conference Paper, 2025. [To appear].
+```
+### APA Citation:
+```bash
+Garba, A., Aziz, N., Alhussian, H., Imam, A. A., Salahudden, R., Adamu, S., & Saidu, Y. (2025). Blockchain-Based Clustered Federated Learning with Deduplication of Model Weights. IEEE. [To appear].
 ```
 
 ## Contact
@@ -114,5 +113,5 @@ If you use this work, please cite it as:
 For collaborations, questions, or contributions:
 
 Aliyu Garba
-📧 engrabusadik@gmail.com
-🔗 https://github.com/username/CFLAG-BD
+- engrabusadik@gmail.com
+- https://github.com/engrabu/CFLAG-DB/
